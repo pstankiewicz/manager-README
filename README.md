@@ -1,4 +1,4 @@
-# Cześć, mam na imię Piotr, możesz mówić na mnie Void.
+# Cześć, mam na imię Piotr, możesz mówić na mnie Void
 
 Jeśli czytasz ten dokument to najprawdopodobniej jestem Twoim Team Leaderem i pracujemy lub będziemy pracować wspólnie w projekcie. Bardzo chętnie dowiem się więcej o Tobie, ale chciałbym, żebyś i Ty miał również trochę informacji o mnie.
 
