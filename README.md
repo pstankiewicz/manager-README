@@ -49,11 +49,11 @@ Szanuję Twój czas poza pracą i jeśli napiszę do Ciebie na Slacku lub prze e
 
 Jeśli do mnie napiszesz poza godzinami mojej pracy, to odpowiedź może nie nadejść natychmiast. Ogólnie na równi z Twoim czasem poza pracą szanuję również mój czas, który jest dla mnie dobrem deficytowym i mimo tego, że staram się być online 24h na dobę, to nie zawsze jest czas i miejsce, żeby pisać na Slacku.
 
-W przypadkach _nagłych_ i _krytycznych_ mogę do Ciebie zadzwonić. Sam też spodziewam się takiej formy kontaktu.
+W przypadkach __nagłych__ i __krytycznych__ mogę do Ciebie zadzwonić. Sam też spodziewam się takiej formy kontaktu.
 
 ## Jeśli czegoś potrzebujesz
 
-1. Daj mi znać osobiście. Jeśli mam słuchawki to nie jestem odcięty i "w strefie" tylko pewnie słucham jakiejś nieziemskiej muzy ;). Także zapraszam do machnięcia, zapukania w biurko itp.
+1. Daj mi znać osobiście. Jeśli mam słuchawki to nie jestem odcięty i "w strefie" tylko pewnie słucham jakiejś nieziemskiej muzy ;). Także zapraszam do machnięcia ręką w moim polu widzenia, zapukania w biurko itp.
 
 2. Napisz do mnie. Na slacku lub mailem. Możemy się wtedy umówić na calla lub przedyskutować problem przy klawiaturze.
 
