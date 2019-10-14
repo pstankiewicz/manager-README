@@ -53,8 +53,9 @@ W przypadkach _nagłych_ i _krytycznych_ mogę do Ciebie zadzwonić. Sam też sp
 
 ## Jeśli czegoś potrzebujesz
 
-	1. Daj mi znać osobiście. Jeśli mam słuchawki to nie jestem odcięty i "w strefie" tylko pewnie słucham jakiejś nieziemskiej muzy ;). Także zapraszam do machnięcia, zapukania w biurko itp.
-	2. Napisz do mnie. Na slacku lub mailem. Możemy się wtedy umówić na calla lub przedyskutować problem przy klawiaturze.
+1. Daj mi znać osobiście. Jeśli mam słuchawki to nie jestem odcięty i "w strefie" tylko pewnie słucham jakiejś nieziemskiej muzy ;). Także zapraszam do machnięcia, zapukania w biurko itp.
+
+2. Napisz do mnie. Na slacku lub mailem. Możemy się wtedy umówić na calla lub przedyskutować problem przy klawiaturze.
 
 ## Uwaga
 
